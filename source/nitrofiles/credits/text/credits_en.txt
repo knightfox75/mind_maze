@@ -1,0 +1,394 @@
+Mind Maze
+by
+NightFox & Co.
+>
+Game idea and
+design
+
+NightFox
+>
+- Puzzle -
+
+Programming
+and graphical
+editing
+
+NightFox
+>
+- Puzzle -
+
+"Buho"
+
+Artwork by
+Tonimax
+
+Music
+"No Way To Know"
+Mod ID: 51772
+>
+- Puzzle -
+
+"Sub-real"
+Artwork by
+Tonimax
+
+Music
+"Voyage to
+Eternity"
+by Big Jim
+Mod ID: 36892
+>
+- Puzzle -
+
+"Luna"
+Artwork by
+Tonimax
+
+Music
+"Escape from
+the Night"
+Mod ID: 70863
+>
+- Puzzle -
+
+"Cute!"
+Artwork by
+SueKeruna
+
+Music
+"Just for
+blues"
+Mod ID: 93194
+>
+- Puzzle -
+
+"Lost End"
+Artwork by
+SueKeruna
+
+Music
+"Dripping away"
+Mod ID: 40654
+>
+- Puzzle -
+
+"Kyle"
+Artwork by
+SueKeruna
+
+Music
+"Harbour
+bizarre"
+Mod ID: 44349
+>
+- Puzzle -
+
+"I hear voices"
+Artwork by
+SueKeruna
+
+Music
+"The last dawn"
+Mod ID: 44349
+>
+- Puzzle -
+
+"Don't leave me"
+Artwork by
+SueKeruna
+
+Music
+"Weather-bound"
+Mod ID: 62093
+>
+- Puzzle -
+
+"Alehop!"
+Artwork by
+Miyucchi
+
+Music
+"Do Lusia"
+by JosSs
+Mod ID: 104212
+>
+- Puzzle -
+
+"Maiko"
+Artwork by
+Miyucchi
+
+Music
+"Cherry Blossoms"
+by HyoChan
+Mod ID: 46961
+- Puzzle -
+
+"Sheriff girl"
+Artwork by
+Keyframe_79
+
+Music
+"Kursiv"
+Mod ID: 48389
+>
+- Pairs -
+
+Programming
+and graphical
+editing
+
+NightFox
+>
+- Pairs -
+
+"Girls"
+Artwork by
+SueKeruna
+
+Music
+"Voice of
+Evergreen"
+Mod ID: 60712
+>
+- Pairs -
+
+"Hearts"
+CG by
+NightFox
+
+Music
+"Can't forget"
+by Moby
+Mod ID: 106817
+>
+- Pairs -
+
+"Diamonds"
+CG by
+NightFox
+
+Music
+"Back for good"
+by Jerry
+Mod ID: 34884
+>
+- Pairs -
+
+"Spades"
+CG by
+NightFox
+
+Music
+"A Quiet Place"
+Mod ID: 164617
+>
+- Pairs -
+
+"Clubs"
+CG by
+NightFox
+
+Music
+"mm"
+by mellow-d
+Mod ID: 41217
+>
+- Pairs -
+
+"Zodiac"
+CG by
+NightFox
+
+Music
+"Sea of love"
+by Moby
+Mod ID: 56098
+>
+- Labyrinth -
+
+Programming
+and graphical
+editing
+
+NightFox
+>
+- Labyrinth -
+
+"Cave"
+Design/Graphics
+by NightFox
+
+Music
+"yhdyslinkki"
+Mod ID: 62101
+>
+- Labyrinth -
+
+"Inferno"
+Design/Graphics
+by NightFox
+
+Music
+"Veteran Black"
+Mod ID: 156132
+>
+- Labyrinth -
+
+"Cloudy"
+Design/Graphics
+by NightFox
+
+Music
+"Mind Mazing"
+by Paleface
+>
+- Labyrinth -
+
+"Volcano"
+Design/Graphics
+by NightFox
+
+Music
+"Shadow-form"
+by Nemesis
+Mod ID: 49120
+>
+- Labyrinth -
+
+"Paranoia"
+Design/Graphics
+by NightFox
+
+Music
+"Star-shine" by
+Purple Motion
+Mod ID: 60693
+>
+- Labyrinth -
+
+"8 bits"
+Design/Graphics
+by NightFox
+
+Music
+"068" by
+michu
+Mod ID: 160971
+>
+- Labyrinth -
+
+"On Ice!"
+Design/Graphics
+by NightFox
+
+Music
+"Ocean II"
+by a-lin
+Mod ID: 168455
+>
+- Labyrinth -
+
+"Sandbox"
+Design/Graphics
+by NightFox
+
+Music
+"Amazonas"
+by Skaven252
+Mod ID: 33408
+>
+- Labyrinth -
+
+"Rainbow"
+Design/Graphics
+by NightFox
+
+Music
+"Zoo riot"
+by Tito
+Mod ID: 53170
+>
+- Cubes -
+
+Programming
+and graphical
+editing
+
+NightFox
+>
+- Cubes -
+
+Artwork by
+SueKeruna
+
+Music
+"Allnite groove"
+Mod ID: 33320
+>
+- Opening -
+
+Programming
+NightFox
+
+Animation
+Tonimax
+>
+- Menus -
+
+Programming
+and graphical
+editing
+
+NightFox
+>
+- Menus -
+
+Graphics
+by
+NightFox
+Tonimax
+
+Music
+"Origin"
+Mod ID: 59256
+>
+- Credits -
+
+Programming
+and graphics
+NightFox
+
+Music
+"Bye for Now"
+by Nightbeat
+Mod ID: 39547
+>
+Special thanks
+to
+
+AntonioND
+Wintermute
+Zeromus
+Andrew
+>
+Thanks to
+
+elborra
+prizzio
+virman
+Frox
+BassAceGold
+paleface
+>
+All songs with
+MOD ID are
+downloaded from
+modarchive.org
+>
+(cc) 2011
+NightFox & Co.
+<
+END_OF_FILE
+
+

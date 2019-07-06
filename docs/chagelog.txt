@@ -1,0 +1,56 @@
+////////////////////////////////////////////////////////////////////////////////
+
+
+Ver. 20110830
+--------------
+- Added "Sheriff girl" puzzle on 1st minigame.
+
+
+Ver. 20110826
+--------------
+- Added complete version of opening movie.
+- Added "Sandbox" puzzle on 3er minigame.
+- Added "Rainbow" puzzle on 3er minigame.
+
+
+Ver. 20110820
+--------------
+- Added opening video.
+
+
+Ver. 20110819
+--------------
+- Added "aura" effect to the ball of labytinth minigame.
+- Now you can skip intro screens.
+- Added "Alehop!" puzzle in 1st minigame.
+- Added "8 bits" puzzle in 3rd minigame.
+- Added "Maiko" puzzle in 1st minigame.
+- Added "On Ice!" puzzle in 3rd minigame.
+- Fixed bug on icon detection on menus.
+- Minor changes on 3rd minigame effects.
+- Order of some sound tracks are changed.
+
+
+Ver. 20110727
+--------------
+
+- Added "Cubes" puzzle minigame.
+
+
+Ver. 20110710
+--------------
+
+- "Magnetic attraction" added on the labytinth.
+- Added "Zodiac" theme to pairs game.
+- Added dead zone for all menus.
+
+
+Ver. 20110704
+--------------
+
+- Chaged system to select items on menus. Double tap it's not longer required.
+- Added "Don't leave me" slide puzzle.
+- Splash screen of Scenery Beta 2011 updated.
+
+
+////////////////////////////////////////////////////////////////////////////////

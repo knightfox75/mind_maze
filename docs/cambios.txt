@@ -1,0 +1,57 @@
+////////////////////////////////////////////////////////////////////////////////
+
+
+Ver. 20110830
+--------------
+- Añadido el puzzle "Sheriff girl" en el 1r minijuego.
+
+
+Ver. 20110826
+--------------
+- Añadida la version completa del video de opening.
+- Añadido el puzzle "Sandbox" en el 3er minijuego.
+- Añadido el puzzle "Rainbow" en el 3er minijuego.
+
+
+Ver. 20110820
+--------------
+- Añadido el video de opening.
+
+
+Ver. 20110819
+--------------
+- Añadido el efecto "Aura" a la bola del del laberinto.
+- Ahora se pueden saltar las escenas de presentacion.
+- Añadido el puzzle "Alehop!" en el 1er minijuego.
+- Añadido el puzzle "8 bits" en el 3er minijuego.
+- Añadido el puzzle "Maiko" en el primer minijuego.
+- Añadido el puzzle "On Ice!" en el 3er minijuego.
+- Corregido un bug en la deteccion de iconos en los menus.
+- Ligeros cambios en los efectos del 3er minijuego.
+- Cambiado el orden de algunas musicas.
+
+
+Ver. 20110727
+--------------
+
+- Añadido el minijuego "Cubos".
+
+
+Ver. 20110710
+--------------
+
+- Añadido el efecto "atraccion magnetica" en el laberinto.
+- Añadido el tema "Zodiac" al juego de parejas.
+- Añadida "zona muerta" en todos los menus.
+
+
+Ver. 20110704
+--------------
+
+- Cambiado el sistema de control en los menus. Ahora no es necesario realizar
+  doble click para activar los iconos.
+- Añadido el puzzle "Don't leave me".
+- Actualizadas la splash screen del Scenery Beta 2011.
+
+
+////////////////////////////////////////////////////////////////////////////////
